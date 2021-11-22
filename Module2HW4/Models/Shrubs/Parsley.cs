@@ -10,7 +10,7 @@ namespace Module2HW4.Models.Shrubs
     {
         public Parsley()
         {
-            Name = "Valerian";
+            Name = "Parsley";
         }
     }
 }
